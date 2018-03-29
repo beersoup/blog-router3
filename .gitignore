@@ -8,7 +8,8 @@
 
 # production
 /build
-
+*.iml
+/.idea
 # misc
 .DS_Store
 .env.local
